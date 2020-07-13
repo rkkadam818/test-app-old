@@ -6,7 +6,7 @@
  * Time: 8:46 AM
  */
 
-namespace Test;
+namespace rkadam01\Test;
 
 class Test {
 	public function testApp() {

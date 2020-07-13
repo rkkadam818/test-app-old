@@ -11,9 +11,7 @@
     ],
     "minimum-stability": "stable",
     "require": {},
-	"autoload": {
-		"psr-0": {
-			"Test": "src/"
-		}
-	}
+    "autoload": {
+      "psr-4": {"rkadam01\\Test\\": "src/"}
+    }
 }
